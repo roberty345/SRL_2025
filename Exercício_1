@@ -4,7 +4,7 @@ R: Partilha de ficheiros - Permite que os utilizadores da rede acedam a pastas e
 
   Partilha de impressoras - permite indentificar quem vai ter acesso a impressora.
 
-  Autenticação de utilizadores - Garante que apenas utilizadores autorizados acedam á rede e aos seus recursos , cada um te um nome e uma password.
+  Autenticação de utilizadores - Garante que apenas utilizadores autorizados acedam á rede e aos seus recursos , cada um tem um nome e uma password.
 
 2-Se em funcionário da produção tentar aceder á pasta do departamento de RH, o que deve acontecer?Porque?
 R: Pasta partilhadas com permissões especificas, só algumas pessoas pode aceder e tem acesso. 
